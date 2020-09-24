@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grant Rich's avatar assignment</title>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<body style="background-color:GreenYellow;">
+
+<img style="width:250px;height:150px;"src=https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg alt=EFF_Logo></img>
+
+<h1 style="text-align:center;font-family:cooper;color:magenta;font-size:200%;">Lecture Series Presents:<h1>
+<b><h2 style="text-align:center;font-family:cooper;color:magenta;font-size:275%;">Grant Rich</h2>
+
+<img style="width:500px;height:500px;" class="center"src=https://static.wixstatic.com/media/d22591_505c037894bf48a6bd4ee25931ac1cbf~mv2.jpg/v1/fill/w_395,h_388,al_c,q_80,usm_0.66_1.00_0.01/Portrait.webp alt=cartoon_grant  <b> 	
+
+<p style="text-align:center;font-family:tahoma;color:#006600;font-size:50%;">Grant Rich wants to live in a world where everyone has their<br> basic needs met and has a chance to do the things that they love.<br>  As a Illustrator/cartoonist, He has been featured in the<br> Muskegon Community College Bay Window.  When he is not Drawing,<br> you can find Grant Finishing his latest comic book. 
+His Next Book,<br><em>‘Big Steaky’</em> hits Shelves on February, 5, 2025 .</p>
+<hr>
+<p style="text-align:center;font-family:tahoma;color:#006600;font-size:60%;">Explore  how to laugh and enjoy yourself at 
+
+<a href="http://www.grantrich.com/">Grantrich.com.</a><br>
+RSVP BY 09/07/2020 at grantrich88@gmail.com</p>
+
+</body>
+</html>
